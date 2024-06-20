@@ -1,0 +1,2 @@
+|[align center size small color #0f0 default]I like to create posts, but have never found a good platform to do so.
+|[break]Follow along as I create my own blog site, complete with custom markup, live backgrounds, and more!

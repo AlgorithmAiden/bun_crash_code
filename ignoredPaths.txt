@@ -1,0 +1,25 @@
+//lines with // are comments
+// prefix scan count path
+// 0
+// 1      ++++       ++++
+// 2           +++++ ++++
+// 3                 ++++
+3 mem.json
+3 output\mem.json
+2 mainPageBackgrounds
+1 output\backgroundManager.js
+1 output\backgrounds
+1 output\updateStats.js
+1 output\siteStyles.css
+1 output\postStyles.css
+0 output\.git
+3 output\posts
+0 blogPost_Making a custom blog
+3 ignoredPaths.txt
+0 node_modules
+3 firaCode.ttf
+3 output\firaCode.ttf
+3 package-lock.json
+3 package.json
+3 output\preview.png
+3 bun.lockb

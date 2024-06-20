@@ -1,0 +1,1 @@
+|[align center color #fff size xx-large default]Making a |[bold code color #0f0]|[|custom]|[reset default] blog
